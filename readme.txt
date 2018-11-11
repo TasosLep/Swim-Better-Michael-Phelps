@@ -17,3 +17,4 @@ It gives the opportunity to export a JPEG image with your weekly swimming progra
 It gives you the option to upload your personal records.
 It also supports a calendar.
 
+![icon](https://user-images.githubusercontent.com/23498597/48310976-a3c62500-e5a0-11e8-8caf-0b3d2a6c15f4.png)
