@@ -1,45 +1,21 @@
-GUI Form Example Descriptions
+GUI Form 
 ================================================================================
 
-This project contains three visual forms that were designed with the IDE's
-GUI Builder. You can open these forms in the IDE, and you can view accompanying 
-demos that show you how those forms can be created in the IDE.
+This project contains an exciting way to learn to swim better.
+
+##Version 1.00
+
+It gives the opportunity to make weekly swimming program (without exporting option).
+It has some gallery with nice swimming facilites around the world.
+It analyzes the suitable training facilities.
+It has tips about the right strokes.
+
+##Version 1.01
+
+New Gui Design with a new application Icon.
+It gives the opportunity to export a JPEG image with your weekly swimming program.
+It gives you the option to upload your personal records.
+It also supports a calendar.
 
 
-To open an example form in the GUI Builder:
-
-1) In the IDE's Projects window, navigate to the examples package node within the 
-Source Packages directory.
-
-2) Double-click the node of the sample form you want to view.
-
-The IDE launches the GUI Builder and displays the chosen form.
-
-
-Contact Editor
---------------
-
-This complex form is similar to Windows dialogs typically used to display and 
-edit database information. The example illustrates the full range of GUI Builder 
-features, including alignment, anchoring, sizing, indentation, and runtime 
-auto-resizing behavior. To view a detailed tutorial including flash 
-demonstrations showing how to build this form, copy and paste the following link 
-into your web browser http://netbeans.org/kb/60/java/quickstart-gui.html.
-
-Antenna Preferences
--------------------
-
-This example illustrates a type of table-based form commonly used to display 
-related information in visually coherent groups. The GUI Builder's advanced 
-alignment features enable you to group and size non-adjacent components (such as 
-labels, text fields, and buttons) consistently without the need to merge cells
-manually. 
-
-Find
-----
-
-This simple form illustrates a straight-forward layout often used in various 
-applications requiring basic search functionality. The GUI Builder's alignment 
-and sizing features enable you to quickly construct such forms while ensuring 
-that they localize predictably. 
-
+![icon](https://user-images.githubusercontent.com/23498597/48310890-26e67b80-e59f-11e8-9600-98bf83ade168.jpg)
